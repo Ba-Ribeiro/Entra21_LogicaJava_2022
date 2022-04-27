@@ -1,5 +1,3 @@
-# Entra21_LogicaJava_2022
-Conteudo pratico realizado em sala
 package br.com.entra21.variaveis;
 
 import java.util.Scanner;
@@ -20,7 +18,7 @@ public class Main {
 		short anoPassado;
 		anoPassado=2021;
 
-		System.out.println("Minha idade √© " + (idade + outraIdade));
+		System.out.println("Minha idade È " + (idade + outraIdade));
 
 		System.out.println("Estamos em " + ano + " e ano passado foi " + anoPassado + ".");
 		
@@ -37,8 +35,8 @@ public class Main {
 
 		float peso = 70.5f, altura = 2.05f;
 
-		System.out.println("Meu peso √© " + peso);
-		System.out.println("Minha altura √© " + altura);
+		System.out.println("Meu peso È " + peso);
+		System.out.println("Minha altura È " + altura);
 
 		char letra = 'R';
 
@@ -60,7 +58,7 @@ public class Main {
 		entrada = new Scanner(System.in);
 		
 		/*
-		 * System.out.println("Por favor qual √© o seu nome?"); nome =
+		 * System.out.println("Por favor qual È o seu nome?"); nome =
 		 * entrada.nextLine();
 		 * 
 		 * System.out.println("Informe sua idade:"); minhaIdade = entrada.nextByte();
@@ -70,8 +68,8 @@ public class Main {
 		 * System.out.println("Informe seu salario:"); salario = entrada.nextFloat();
 		 * 
 		 * System.out.println("Bem vindo " + nome +
-		 * " agora consigo interagir com humanos, j√° sei que vc tem " + minhaIdade +
-		 * " anos. Sua altura √© " + minhaAltura + " e seu salario √© R$" + salario);
+		 * " agora consigo interagir com humanos, j· sei que vc tem " + minhaIdade +
+		 * " anos. Sua altura È " + minhaAltura + " e seu salario È R$" + salario);
 		 */
 
 		nome = JOptionPane.showInputDialog("Informe seu nome completo: ");
@@ -81,12 +79,12 @@ public class Main {
 		minhaIdade = Byte.parseByte(
 				JOptionPane.showInputDialog("Informe sua idade:")
 				);
-		JOptionPane.showMessageDialog(null, "Legal sua idade √© "+minhaIdade+" anos");
+		JOptionPane.showMessageDialog(null, "Legal sua idade È "+minhaIdade+" anos");
 		
 		salario = Float.parseFloat(
-				JOptionPane.showInputDialog("Informe seu sal√°rio: ")
+				JOptionPane.showInputDialog("Informe seu sal·rio: ")
 				);
-		JOptionPane.showMessageDialog(null, "Seu salario √© R$"+salario);
+		JOptionPane.showMessageDialog(null, "Seu salario È R$"+salario);
 	}
 
 }
