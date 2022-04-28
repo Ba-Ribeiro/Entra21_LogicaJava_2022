@@ -1,8 +1,8 @@
-aprendendo sobre incremento decremento
+# aprendendo sobre incremento e decremento
 
-formas
+## formas
 
-pre incremento ou pre decremento
-pos incremento ou pos decremento
-compacta
-didatica
+- pre incremento ou pre decremento
+- pos incremento ou pos decremento
+- compacta
+- didatica 
