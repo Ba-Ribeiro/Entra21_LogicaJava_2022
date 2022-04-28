@@ -5,10 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		final byte IDADE;
-		IDADE=30;
-		
-		IDADE=34;
+		final byte idade,outraIdade;
+		idade=30;
+		outraIdade=34;
 		
 
 	}
