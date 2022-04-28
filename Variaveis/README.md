@@ -1,6 +1,11 @@
-# Aprendendo sobre variáveis
+# aprendendo sobre variaveis
 
-## Tipos
+## tipos
 
 - byte
 - short
+- int
+- long 
+- float 
+- double 
+- boolean
