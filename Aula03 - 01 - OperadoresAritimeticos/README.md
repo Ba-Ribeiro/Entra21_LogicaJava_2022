@@ -2,11 +2,11 @@
 
 ## tipos
 
-- + adição
-- - subtração
-- * multiplicão
-- / divisão
-- % resto da divisão
+- (+) adição
+- (-) subtração
+- (*) multiplicão
+- (/) divisão
+- (%) resto da divisão
 
 # aprendendo sobre constantes
 
