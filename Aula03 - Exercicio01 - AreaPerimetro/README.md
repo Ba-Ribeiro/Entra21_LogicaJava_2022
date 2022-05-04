@@ -1,4 +1,4 @@
-# exercicio sobre variaveis e operadores aritmeticos
+# Exercicio sobre variaveis e operadores aritmeticos
 
 ## Enunciado
 
