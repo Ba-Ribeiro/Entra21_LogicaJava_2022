@@ -1,4 +1,4 @@
-package br.com.entra21.exercicioAreaPerimetro;
+package br.com.entra21.exercicio01.AreaPerimetro;
 
 import java.util.Scanner;
 
