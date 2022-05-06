@@ -1,8 +1,8 @@
-package br.com.entra21.Aula03.Exercicio04.Temperatura;
+package br.com.entra21.exercicio05.temperaturaF;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Converta graus Celsius em Fahrenheit.");
@@ -22,3 +22,4 @@ public class main {
 	}
 
 }
+
